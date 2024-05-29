@@ -36,7 +36,7 @@ Creati graful turneului!Vârfurile grafului vor fi cele 32 de echipe care au int
 
 (q=0.15,r=nr. victorii ale unei echipe,l=nr de meciuri necesare pt castigarea campionatului=5);
 
--afisez echipele si prestigiul descrescator, dupa prestigiu;
+-afisez echipele si prestigiul descrescator, dupa prestigiu ;
 
 ## MAIN
 
