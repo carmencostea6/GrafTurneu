@@ -1,5 +1,5 @@
 # PATema2
-Repository folosit pentru a prezenta prima tema2 la Proiectarea Algoritmilor
+Repository folosit pentru a prezenta tema2 la Proiectarea Algoritmilor
 
 !Acest cod nu este functional-doar o schita!
 
